@@ -1,0 +1,19 @@
+---
+title: "Python Data Analysis"
+author: "Vinodh"
+date: "2025-12-10"
+categories: [code, analysis]
+---
+
+Here is a chart generated automatically by my blog:
+
+```{python}
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3, 4, 5]
+y = [1, 4, 9, 16, 25]
+
+plt.figure(figsize=(8,5))
+plt.plot(x, y, color='purple')
+plt.title("My Data Engineering Growth")
+plt.show()

@@ -1,0 +1,13 @@
+---
+title: ""
+listing:
+  contents: posts          # Looks for posts in the 'posts' folder
+  sort: "date desc"        # Sorts by date (newest first)
+  type: default            # Layout style (try 'grid' or 'table' if you prefer)
+  categories: true         # Show categories (e.g., Python, SQL) on the right
+  sort-ui: false           # Hide the "sort by" dropdown (optional)
+  filter-ui: false         # Hide the search bar (optional)
+  page-size: 10            # <--- THIS IS THE SETTING YOU WANT
+page-layout: full
+title-block-banner: true
+---

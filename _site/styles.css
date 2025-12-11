@@ -1,0 +1,14 @@
+/* Add serial numbers to listing items */
+#listing-listing .listing {
+  counter-reset: item-counter;
+}
+
+#listing-listing .listing-item {
+  counter-increment: item-counter;
+}
+
+#listing-listing .listing-item .listing-title::before {
+  content: counter(item-counter) ". ";
+  font-weight: bold;
+  margin-right: 0.25rem;
+}

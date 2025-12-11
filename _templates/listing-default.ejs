@@ -1,0 +1,26 @@
+<div class="listing">
+<% for (var i = 0; i < items.length; i++) { %>
+  <div class="listing-item">
+    <h3 class="listing-title">
+      <span class="listing-index"><%= i + 1 %></span>.
+      <a href="<%= items[i].path %>"><%= items[i].title %></a>
+    </h3>
+    <% if (items[i].subtitle) { %>
+      <p class="listing-subtitle"><%= items[i].subtitle %></p>
+    <% } %>
+    <% if (items[i].description) { %>
+      <p class="listing-description"><%= items[i].description %></p>
+    <% } %>
+    <% if (items[i].categories && items[i].categories.length > 0) { %>
+      <p class="listing-categories">
+        <% for (var j = 0; j < items[i].categories.length; j++) { %>
+          <a href="#category=<%= items[i].categories[j].replace(/ /g, '%20') %>"><%= items[i].categories[j] %></a><% if (j < items[i].categories.length - 1) { %> • <% } %>
+        <% } %>
+      </p>
+    <% } %>
+    <% if (items[i].date) { %>
+      <p class="listing-date"><small><%= items[i].date %></small></p>
+    <% } %>
+  </div>
+<% } %>
+</div>
