@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "Me"
 ---
 
 With over 13 years of hands-on experience in the confluence of Software Development and Data Engineering, I specialize in architecting and implementing enterprise-level data platforms designed to manage high-volume, high-velocity data streams.
 
 My focus is on delivering robust data infrastructure that scales with organizational demands, leveraging a comprehensive technical stack.
 
-## Core Engineering Proficiencies
+***Core Engineering Proficiencies***
 
 **Big Data Ecosystems:** Expertise in Spark, Hadoop, Databricks, and implementing complex parallel processing frameworks.
 
