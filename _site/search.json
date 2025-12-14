@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "With over 13 years of hands-on experience in the confluence of Software Development and Data Engineering, I specialize in architecting and implementing enterprise-level data platforms designed to manage high-volume, high-velocity data streams.\nMy focus is on delivering robust data infrastructure that scales with organizational demands, leveraging a comprehensive technical stack."
-  },
-  {
-    "objectID": "about.html#core-engineering-proficiencies",
-    "href": "about.html#core-engineering-proficiencies",
-    "title": "About",
-    "section": "1 Core Engineering Proficiencies",
-    "text": "1 Core Engineering Proficiencies\nBig Data Ecosystems: Expertise in Spark, Hadoop, Databricks, and implementing complex parallel processing frameworks.\nData Pipelines & Streaming: Architecting real-time streaming solutions using Kafka and efficient application development using Java.\nCloud Infrastructure: Building and deploying highly scalable, resilient systems on AWS.\nApplication Integration: Seamlessly integrating data systems with core business applications to drive operational efficiency.\nI am driven by the optimization of data governance practices and the delivery of reliable data infrastructure that directly supports strategic business growth."
-  },
-  {
     "objectID": "posts/20251210/index.html",
     "href": "posts/20251210/index.html",
     "title": "Python Data Analysis",
