@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+
+With over 13 years of hands-on experience in the confluence of Software Development and Data Engineering, I specialize in architecting and implementing enterprise-level data platforms designed to manage high-volume, high-velocity data streams.
+
+My focus is on delivering robust data infrastructure that scales with organizational demands, leveraging a comprehensive technical stack.
+
+## Core Engineering Proficiencies
+
+**Big Data Ecosystems:** Expertise in Spark, Hadoop, Databricks, and implementing complex parallel processing frameworks.
+
+**Data Pipelines & Streaming:** Architecting real-time streaming solutions using Kafka and efficient application development using Java.
+
+**Cloud Infrastructure:** Building and deploying highly scalable, resilient systems on AWS.
+
+**Application Integration:** Seamlessly integrating data systems with core business applications to drive operational efficiency.
+
+I am driven by the optimization of data governance practices and the delivery of reliable data infrastructure that directly supports strategic business growth.
